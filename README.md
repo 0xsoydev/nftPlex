@@ -2,6 +2,7 @@
 
 - Image Metadata: https://devnet.irys.xyz/EXaxsb9gH6hfn5MQgPj7c6ML4YmugdsfUNP7gwVnZtnF
 - NFT Metadata: https://gateway.irys.xyz/ELmd1rX8hreDQDKTrWH44wFu4YihhviC61LTLz46PQVX
+- TX Link: https://explorer.solana.com/address/Bh2pxSyWKXn5xipJ9Njp63jAQQJCqS39KgzqbXQ4f7a2?cluster=devnet
 
 ---
 
